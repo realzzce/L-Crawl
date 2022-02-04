@@ -1,0 +1,8 @@
+.DS_Store
+
+/Users
+/bin
+/log
+*.log
+*.xlsx
+*.csv
